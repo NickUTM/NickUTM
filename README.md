@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nicolae
 - 👀 I’m interested in IT AI and robotic
-- 🌱 I’m currently learning Python  / Go
 - 💞️ I’m looking to collaborate on AI
 - 📫 github
 
